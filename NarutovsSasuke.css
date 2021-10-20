@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(247, 213, 255);
+}
+h1{
+    font-size: 50px;
+    color: snow;
+    text-align:center;
+    font: 100% OCR A Std, monospace;
+}
+p{
+    font-size:10px;
+    color:rgb(184, 101, 156);
+    font: 100% OCR A Std, monospace;
+}
+.paragrafo{
+    position: Absolute;
+    height: 72px;
+    width: 1000px;
+    left: 195px;
+    top: 420px;
+    border-radius: 25px;
+    font-size: 40px;
+    font: 100% OCR A Std, monospace;
+    background-color: rgb(203, 155, 248);
+    padding: 1px;
+    text-align: center;
+}
+.topo{
+    position: Absolute;
+    height: 40px;
+    width: 800px;
+    left: 310px;
+    top: 20px;
+    border-radius: 25px;
+    font-size: 40px;
+    font: 100% OCR A Std, monospace;
+    background-color: rgb(203, 155, 248);
+    padding: 1px;
+    text-align: center;
+}

@@ -1,0 +1,124 @@
+body{
+    background-color: rgb(247, 213, 255);
+}
+h1{
+    font-size: 50px;
+    color: snow;
+    text-align:center;
+    font: 100% OCR A Std, monospace;
+}
+p{
+    font-size:10px;
+    color:rgb(184, 101, 156);
+    font: 100% OCR A Std, monospace;
+}
+.menu{
+    float:left;
+    width:20%;
+    text-align:center;
+}
+.menu2{
+    float:right;
+    width:20%;
+    text-align:center;
+}
+.menuitem{
+    background-color: violet;
+    padding:8px;
+    margin-top:7px;
+    font-size: 100%;
+    color: white;
+    border: 3px solid;
+    border-image: linear-gradient(227.91deg, #b92cff 20%, #e8b6ff 80%) 1;
+}
+.main{
+    position:absolute;
+    height: 200px;
+    width: 100px;
+    left: 380px;
+    top: 120px;
+}
+.main2{
+    position: absolute;
+    height: 200px;
+    width: 100px;
+    left: 370px;
+    top: 580px;
+}
+.main3{
+    position: Absolute;
+    height: 25px;
+    width: 500px;
+    left: 480px;
+    top: 470px;
+    border-radius: 25px;
+    font-size: 40px;
+    font: 100% OCR A Std, monospace;
+    background-color: rgb(203, 155, 248);
+    padding: 1px;
+    text-align: center;
+}
+h2{
+    position: Absolute;
+    height: 25px;
+    width: 500px;
+    left: 10px;
+    top: -07px;
+    color: rgb(255, 255, 255);
+    font: 100% OCR A Std, monospace;
+}
+.main4{
+    position: absolute;
+    height: 20px;
+    width: 200px;
+    left: 615px;
+    top: 550px;
+    border-radius: 25px;
+    font-size: 25px;
+    font: 100% DejaVu Sans Mono, monospace;
+    background-color: rgb(203, 155, 248);
+    padding:1px;
+    text-align: center;
+}
+h4{
+    position: absolute;
+    height: 20px;
+    width: 200px;
+    left: 06px;
+    top: -21px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    font: 100% DejaVu Sans Mono, monospace;
+}
+.main5{
+    position: absolute;
+    height: 20px;
+    width: 200px;
+    left: 615px;
+    top: 1025px;
+    border-radius: 25px;
+    font-size: 25px;
+    font: 100% DejaVu Sans Mono, monospace;
+    background-color: rgb(203, 155, 248);
+    padding:1px;
+    text-align: center;
+}
+.main6{
+    position: absolute;
+    height: 20px;
+    width: 200px;
+    left: 615px;
+    top: 1628px;
+    border-radius: 25px;
+    font-size: 25px;
+    font: 100% DejaVu Sans Mono, monospace;
+    background-color: rgb(203, 155, 248);
+    padding:1px;
+    text-align: center;
+}
+.Resumo{
+    text-align:center;
+    background-color:violet;
+    border: 4px solid;
+    border-image: linear-gradient(227.91deg, #b92cff 20%, #e8b6ff 80%) 1;
+}
